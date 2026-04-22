@@ -1,1 +1,0 @@
-// Semaphore names and helpers
