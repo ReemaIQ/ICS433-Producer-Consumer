@@ -1,0 +1,1 @@
+// Shared structures (buffer, indices, counters)
