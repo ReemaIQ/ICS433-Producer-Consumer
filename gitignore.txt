@@ -1,0 +1,23 @@
+# Compiled binaries
+controller
+producer
+consumer
+
+# Object files
+*.o
+
+# Runtime logs
+logs/
+
+# IDE / editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS metadata
+.DS_Store
+
+# Valgrind output
+vgcore.*
